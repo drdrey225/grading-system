@@ -32,7 +32,7 @@ body {
    justify-content: center;
    align-items: center;
    position: relative;
-   backdrop-filter: blur(15px);
+   backdrop-filter: blur(35px);
 }
 
 .block1 h1 {
